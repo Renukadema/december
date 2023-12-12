@@ -6,6 +6,12 @@ git clone
 git add
 git commit
 git push
-======
+------------------------------
 git branch
 feature--develop---main---release---hotfix
+==============================
+git branch <bname>
+git checkout <bname>
+git branch -a
+================
+git merge
