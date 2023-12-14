@@ -15,4 +15,8 @@ git checkout <bname>
 git branch -a
 ================
 git merge
+
 git conflict this is error identidy by >>>>>, <<<<<<, ====== symbols
+
+git conflict--- modifying same file in two diff branches
+
